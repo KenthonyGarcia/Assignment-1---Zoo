@@ -1,5 +1,5 @@
-# zoo-starter-code
+# Assignment 1 - Zoo
 
-This repository is the website starter code for Assignment 1 - Zoo.
+This repository is the website for Assignment 1 - Zoo.
 
-[Website link](https://johnnylaicode.github.io/zoo-starter-code/)
+[Website link]()
