@@ -2,4 +2,4 @@
 
 This repository is the website for Assignment 1 - Zoo.
 
-[Website link]()
+[Website link](https://kenthonygarcia.github.io/Assignment-1-Zoo/)

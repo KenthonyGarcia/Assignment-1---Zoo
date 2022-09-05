@@ -3,3 +3,7 @@ body {
   background-color: rgb(143, 65, 20);
   text-align: center;
 }
+img{
+  max-width:450px;
+  max-height:450px;
+}
